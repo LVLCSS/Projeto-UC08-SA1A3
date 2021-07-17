@@ -10,3 +10,14 @@ p {
     text-align:center
 
   }
+
+  body {
+      width: 996px;
+      height: 616px;
+
+      <img src="./img/fundo.jpg" width="996" height="200"/>
+      background-image: url ('fundo.png');
+  }
+
+
+
